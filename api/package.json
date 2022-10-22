@@ -3,7 +3,7 @@
   "dependencies": {
     "@svgr/core": "latest",
     "@svgr/plugin-jsx": "latest",
-    "@svgr/plugin-prettier": "latest",
+    "@svgr/plugin-prettier": "6.3.1",
     "@svgr/plugin-svgo": "latest"
   }
 }
