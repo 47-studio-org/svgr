@@ -4,6 +4,6 @@
     "@svgr/core": "latest",
     "@svgr/plugin-jsx": "latest",
     "@svgr/plugin-prettier": "latest",
-    "@svgr/plugin-svgo": "latest"
+    "@svgr/plugin-svgo": "6.3.1"
   }
 }
